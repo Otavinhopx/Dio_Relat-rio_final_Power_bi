@@ -9,3 +9,6 @@ Relatório de vendas Power BI, Bootcamp Engenharia de Dados na DIO, utilizando o
 
 ## Folha 2
 [![Captura-de-tela-2024-10-31-172523.png](https://i.postimg.cc/T3pMc4GY/Captura-de-tela-2024-10-31-172523.png)](https://postimg.cc/dhPxsnLz)
+
+
+
